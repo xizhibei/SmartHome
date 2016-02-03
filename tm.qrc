@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/hands">
+        <file>hands/0.png</file>
+        <file>hands/1.png</file>
+        <file>hands/2.png</file>
+        <file>hands/3.png</file>
+        <file>hands/4.png</file>
+        <file>hands/5.png</file>
+        <file>hands/6.png</file>
+        <file>hands/7.png</file>
+        <file>hands/8.png</file>
+        <file>hands/9.png</file>
+    </qresource>
+</RCC>
